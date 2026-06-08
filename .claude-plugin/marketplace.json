@@ -1,0 +1,16 @@
+{
+  "name": "web-to-figma-marketplace",
+  "description": "web-to-figma 플러그인 배포용 마켓플레이스",
+  "owner": { "name": "wonmin" },
+  "plugins": [
+    {
+      "name": "web-to-figma",
+      "source": "./",
+      "displayName": "Web to Figma",
+      "description": "웹페이지를 Figma로 복사합니다. CSR/SPA 포함.",
+      "homepage": "https://github.com/e2goon/web-to-figma",
+      "license": "MIT",
+      "keywords": ["figma", "design", "web-capture", "csr", "spa"]
+    }
+  ]
+}
