@@ -1,4 +1,4 @@
-// A 방식 5단계. 캡처 실행 (captureForDesign).
+// A 방식 4단계 (브라우저에서 실행하는 스크립트). 캡처 실행 (captureForDesign).
 // chrome-devtools evaluate_script의 function 인자에 그대로 넣는다.
 // CAPTURE_ID를 generate_figma_design으로 받은 값으로 치환한다.
 //

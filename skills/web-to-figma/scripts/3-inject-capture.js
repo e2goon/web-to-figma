@@ -1,4 +1,4 @@
-// A 방식 4단계. Figma capture.js 주입.
+// A 방식 3단계 (브라우저에서 실행하는 스크립트). Figma capture.js 주입.
 // chrome-devtools evaluate_script의 function 인자에 그대로 넣는다.
 //
 // CDP eval은 페이지 main world에서 실행돼 페이지 CSP의 적용을 받지 않으므로 inline eval이 통한다.

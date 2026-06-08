@@ -1,8 +1,8 @@
 {
   "name": "web-to-figma",
   "displayName": "Web to Figma",
-  "description": "웹페이지를 Figma로 복사합니다. CSR/SPA 포함. 편집 레이어(capture.js, CORS 프록시) 또는 풀페이지 스크린샷.",
-  "version": "1.0.0",
+  "description": "웹페이지를 Figma로 복사합니다. CSR/SPA 포함. 편집 레이어(capture.js, CORS 프록시, 아이콘 웹폰트 굽기) 또는 풀페이지 스크린샷.",
+  "version": "1.1.0",
   "author": { "name": "wonmin" },
   "homepage": "https://github.com/e2goon/web-to-figma",
   "repository": "https://github.com/e2goon/web-to-figma",
